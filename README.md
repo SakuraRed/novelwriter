@@ -52,9 +52,9 @@ novel-writing-workflow/
 └── output/
 ```
 
-## 在 Goose 中使用
+## 在任一 Agent 中使用
 
-Goose 会在项目目录或全局目录中发现 Skills。推荐把本仓库作为“项目级 Skill”使用，避免不同书稿的状态互相污染。
+Agent 会在项目目录或全局目录中发现 Skills。推荐把本仓库作为“项目级 Skill”使用，避免不同书稿的状态互相污染。
 
 推荐目录：
 
