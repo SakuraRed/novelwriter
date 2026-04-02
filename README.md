@@ -7,7 +7,7 @@
 - 从零开始搭建一本小说的写作流程
 - 基于前文继续写作，并保持剧情脉络和人物一致性
 - 对已有正文进行润色，而不是只给修改建议
-- 在 Goose 中长期维护同一本书的配置、文风和人物控制
+- 在 Agent 中长期维护同一本书的配置、文风和人物控制
 
 ## 核心能力
 
@@ -75,10 +75,10 @@ your-book-project/
 使用步骤：
 
 1. 把本仓库内容放到 `.agents/skills/novel-writing-workflow/`
-2. 确保 Goose 已启用 Skills 能力，并能读取项目目录
+2. 确保 Agent 已启用 Skills 能力，并能读取项目目录
 3. 把前文放到 `text/`
 4. 把文风参考文放到 `pre-style/`
-5. 在 Goose 会话中明确调用：
+5. 在 Agent 会话中明确调用：
 
 ```text
 Use the novel-writing-workflow skill.
