@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "initialized": false,
+  "project_name": null,
+  "project_language": "zh-CN",
+  "mode_request": null,
+  "resolved_mode": null,
+  "narrative_person": null,
+  "special_requirements": [],
+  "book_info": {
+    "title": null,
+    "genre": null,
+    "subgenre": null,
+    "tagline": null,
+    "background": null,
+    "target_readers": null,
+    "current_progress": null
+  },
+  "style": {
+    "source_type": null,
+    "style_id": null,
+    "style_file": null,
+    "reference_files": []
+  },
+  "source_text": {
+    "uploaded": false,
+    "files": [],
+    "is_compressed": false,
+    "summary_ready": false,
+    "character_module_ready": false
+  },
+  "review_preferences": {
+    "pause_after_each_chunk": true,
+    "default_chunk_size_words": "500-1000"
+  },
+  "counters": {
+    "start_long_chapter": 1,
+    "start_short_draft": 1,
+    "continue_draft": 1,
+    "polish_draft": 1
+  },
+  "last_updated_at": null
+}

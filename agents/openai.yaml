@@ -1,0 +1,7 @@
+interface:
+  display_name: "Novel Writing Workflow"
+  short_description: "Stateful Chinese fiction writing, continuation, and polish"
+  default_prompt: "Use $novel-writing-workflow to manage a Chinese fiction project from scratch, continuation, or polish."
+
+policy:
+  allow_implicit_invocation: true

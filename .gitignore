@@ -1,0 +1,10 @@
+.DS_Store
+
+text/*
+!text/.gitkeep
+
+pre-style/*
+!pre-style/.gitkeep
+
+output/*
+!output/.gitkeep

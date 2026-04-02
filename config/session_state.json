@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "status": "idle",
+  "workflow_step": null,
+  "awaiting_user_confirmation": false,
+  "mode_request": null,
+  "resolved_mode": null,
+  "word_plan": {
+    "total_words": null,
+    "per_chapter_words": null,
+    "chapter_count": null,
+    "delivery_unit": null,
+    "short_story_mode": null
+  },
+  "current_context": {
+    "user_ideas": null,
+    "finished_segment": null,
+    "additional_details": [],
+    "alignment_summary": null
+  },
+  "active_files": {
+    "source_text_files": [],
+    "style_reference_files": [],
+    "output_files": []
+  },
+  "last_updated_at": null
+}

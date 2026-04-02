@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "preset_styles": [
+    {
+      "id": "clean-realistic",
+      "label": "简洁写实",
+      "file": "style/01-简洁写实.txt",
+      "description": "语言干净，信息明确，适合多数题材。"
+    },
+    {
+      "id": "restrained-cold",
+      "label": "冷峻克制",
+      "file": "style/02-冷峻克制.txt",
+      "description": "情绪压着写，留白较多，适合压迫感和悬疑感。"
+    },
+    {
+      "id": "delicate-emotional",
+      "label": "细腻抒情",
+      "file": "style/03-细腻抒情.txt",
+      "description": "情绪刻画更细，适合人物关系和内心戏。"
+    },
+    {
+      "id": "cinematic-fast",
+      "label": "镜头感强",
+      "file": "style/04-镜头感强.txt",
+      "description": "画面推进快，动作和场景切换清晰。"
+    },
+    {
+      "id": "webnovel-rhythm",
+      "label": "网文节奏",
+      "file": "style/05-网文节奏.txt",
+      "description": "节奏鲜明、段落利落，强调持续阅读感。"
+    }
+  ],
+  "custom_styles": []
+}
